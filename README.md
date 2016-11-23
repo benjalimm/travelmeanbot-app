@@ -1,10 +1,7 @@
-# travelmeanbot-app-
-travel mean bot application
-TravelBot-Server
+# Travel Bot Application
+Application for the Travel Bot
 
-Application for the TravelBot
-
-Technologies
+# Technologies
 
 Node
 Express
@@ -12,3 +9,8 @@ Mongo
 Angular
 
 
+# Get Started
+
+# API ENDPOINTS?
+
+# TODOS
