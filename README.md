@@ -21,10 +21,3 @@ Angular
 # API ENDPOINTS?
 
 # TODOS
-
-
-# Get Started
-
-# API ENDPOINTS?
-
-# TODOS

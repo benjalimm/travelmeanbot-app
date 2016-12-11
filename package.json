@@ -1,5 +1,5 @@
 {
-  "name": "travelmeanbot-app-",
+  "name": "travelmeanbot-app",
   "version": "1.0.0",
   "description": "the application for travel bot",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjalimm/travelmeanbot-app-.git"
+    "url": "git+https://github.com/benjalimm/travelmeanbot-app.git"
   },
   "keywords": [
     "travel",
@@ -17,9 +17,9 @@
   "author": "Jerry Wang, Benjamin Lim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benjalimm/travelmeanbot-app-/issues"
+    "url": "https://github.com/benjalimm/travelmeanbot-app/issues"
   },
-  "homepage": "https://github.com/benjalimm/travelmeanbot-app-#readme",
+  "homepage": "https://github.com/benjalimm/travelmeanbot-app#readme",
   "dependencies": {
     "botbuilder": "^3.4.4",
     "restify": "^4.3.0"
